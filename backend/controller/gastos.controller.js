@@ -11,6 +11,7 @@ class GastosController {
  res.status(500).json({ mensaje: "Error al consultar los gastos" });
  }
  }
+ 
 }
 
 module.exports = GastosController;
