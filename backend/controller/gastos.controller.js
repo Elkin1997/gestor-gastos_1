@@ -8,7 +8,6 @@ class GastosController {
  res.status(200).json({ data: movimiento });
  } catch (error) {
  console.error(error);
- 
  res.status(500).json({ mensaje: "Error al consultar los gastos" });
  }
  }
