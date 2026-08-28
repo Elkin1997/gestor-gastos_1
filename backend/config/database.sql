@@ -29,7 +29,7 @@ CREATE TABLE IF NOT EXISTS gasto (
 );
 
 INSERT INTO usuario (nombre, email, contrasena) VALUES
-('Mariana Torres', 'mariana.torres@correo.com', 'pass2024a'),
+('Mariana Torre', 'mariana.torres@correo.com', 'pass2024a'),
 ('Julián Herrera', 'julian.herrera@correo.com', 'pass2024b'),
 ('Daniela Rojas', 'daniela.rojas@correo.com', 'pass2024c');
 
